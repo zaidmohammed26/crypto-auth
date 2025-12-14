@@ -1,0 +1,5 @@
+* max_size:128
+MsgInit.signature max_size:64
+MsgChallenge.random_data max_size:32
+MsgResponse.signature max_size:64
+MsgResult.message max_size:64
